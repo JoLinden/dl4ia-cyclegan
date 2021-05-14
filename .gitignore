@@ -1,5 +1,4 @@
 data/*
 .idea/
 __pycache__/
-output/A/*
-output/B/*
+output/*
